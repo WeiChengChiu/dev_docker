@@ -1,9 +1,24 @@
-# How To Use
+# README
 
-## Makesure you already install git and docker
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Download git repo
-- git clone https://github.com/WeiChengChiu/dev_docker.git
+Things you may want to cover:
 
-## Build and Run Rails development docker container
-- docker-compose run web rails new . --force --database=postgresql
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
