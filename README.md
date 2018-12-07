@@ -1,24 +1,8 @@
-# README
+# How To Use
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Download git repo
+- git clone https://github.com/WeiChengChiu/dev_docker.git
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Build and Run RoR development docker container
+- cd dev_docker
+- docker-compose up -d
